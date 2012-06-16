@@ -21,6 +21,8 @@ let colors_name = "tango"
 hi Normal       guifg=#eeeeec guibg=#000000
 hi NonText      guifg=#555753 guibg=#000000 gui=none
 hi NonText      ctermfg=darkgray
+hi SpecialKey   guifg=#555753 guibg=#000000 gui=none
+hi SpecialKey   ctermfg=darkgray
 hi Cursor       guibg=#d3d7cf
 hi lCursor      guibg=#d3d7cf
 
