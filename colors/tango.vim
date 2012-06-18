@@ -77,4 +77,4 @@ hi DiffChange   ctermfg=gray ctermbg=darkgray cterm=none
 hi DiffDelete   guibg=bg
 hi DiffDelete   ctermfg=gray ctermbg=none cterm=none
 hi DiffText     guifg=fg guibg=#c4a000 gui=none
-hi DiffText     ctermfg=gray ctermbg=yellow cterm=none
+hi DiffText     ctermfg=white ctermbg=darkyellow cterm=none
